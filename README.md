@@ -9,7 +9,7 @@ We provide an example of online aerodynamic optimization of Ahmed body with expl
 ## Folder structure
 * 'Ahby_rans/' includes journal filesto run fluent by command, 'Jou/', and the cfd cases of Ahmed body, 'CasDat/', which you can contact us to provide.
 * 'EGM/' is the source code of 'explorative gradient method'.
-* 'EGM/Plant/' includes the parameters, optimization problem setup for Ahmed body. Here you can also see the Matlab-Fluent working flow.
+* 'EGM/Plant/' includes the parameters, optimization problem setup. The working flow of Matlab-Fluent joint simulation is illustrated by Ahmed body.
 # Reference
 If you find this demonstrator useful, please cite our work.
 * [Explorative gradient method for active drag reduction of the fluidic pinball and slanted Ahmed body](https://doi.org/10.1017/jfm.2021.974 )
