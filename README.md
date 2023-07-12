@@ -1,4 +1,4 @@
-# AhmedbodyFluent_EGMMatlab
+# AhmedbodyFluent-EGMMatlab
 This is an in-house framework to implement the optimizer developed by 'matlab' to the flow control problem computed by the commercial software 'fluent'.
 ## Demo
 We provide an example of online aerodynamic optimization of Ahmed body with explorative gradient method based on this matlab-fluent framework.
